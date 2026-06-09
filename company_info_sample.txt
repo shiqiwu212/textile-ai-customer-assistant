@@ -1,0 +1,134 @@
+Company Overview:
+Foshan Zhuoyi Textile Co., Ltd. is a textile company focused on denim fabric manufacturing and related textile services. The company supports clothing brands, apparel businesses, and textile customers by providing fabric-related solutions for product development and production. This sample knowledge base is created for a prototype AI customer inquiry assistant. The goal is to help international customers quickly understand the company’s products, services, sustainability focus, and inquiry process.
+
+Company Background:
+The company is based in Foshan, China, an important manufacturing region in the Pearl River Delta. The region is close to Hong Kong and Macao and has convenient access to transportation and international business channels. The company has experience serving customers in the textile and apparel industry and focuses on practical support for fabric development, production communication, and customer service.
+
+Business Focus:
+The company mainly focuses on denim fabric and related textile materials. It supports customers who need fabrics for jeans, casualwear, fashion apparel, and other clothing products. The company’s business is not only about selling fabric, but also about helping customers understand material options, development needs, production support, and possible textile solutions.
+
+Main Products:
+The company’s main product area is denim fabric. It may also support related woven and knit textile materials depending on customer needs. Customers may ask about fabric types, fabric weight, color direction, texture, stretch, finish, material composition, and possible clothing applications. The AI assistant should help customers understand the available product direction and guide them to provide more details.
+
+Denim Fabric:
+Denim fabric is one of the company’s core business areas. The company can support customers looking for denim materials for apparel production. Customer questions may include fabric weight, color, washing effect, texture, stretch, durability, and whether the denim fabric can be used for jeans, jackets, skirts, casualwear, or other apparel designs. A good answer should explain the company’s denim focus and ask customers for their target product requirements.
+
+Denim Applications:
+Denim fabric can be used in many apparel products, including jeans, jackets, shirts, skirts, casual pants, workwear-inspired clothing, and fashion items. Customers may ask whether a fabric is suitable for a specific product. The assistant should explain that suitability depends on the fabric weight, texture, stretch, finishing, and target usage. The customer should provide product type, design goal, and market position for better recommendations.
+
+Fabric Weight:
+Customers may ask about fabric weight when choosing denim or other textile materials. Fabric weight can affect comfort, structure, durability, and seasonal use. Lighter fabrics may be more suitable for shirts or summer clothing, while heavier fabrics may be more suitable for jeans, jackets, or structured garments. The assistant should ask the customer about the target product, season, comfort needs, and expected fabric hand feel.
+
+Fabric Texture and Hand Feel:
+Customers may ask about texture, softness, stiffness, and hand feel. Hand feel is important because it affects how the fabric feels when worn and how the final garment looks. Some customers may prefer soft denim for comfort, while others may prefer a more structured texture for jeans or jackets. The assistant should explain that texture depends on material composition, weaving structure, finishing, and washing requirements.
+
+Color and Finishing Options:
+Customers may ask about denim colors, washing effects, or finishing options. Denim can come in different color directions such as indigo, dark blue, black, light blue, gray, or other customized shades. Finishing can affect the final appearance, softness, and style of the fabric. The assistant should ask customers about target color, wash effect, garment style, and brand direction.
+
+Stretch and Comfort:
+Some customers may ask whether the company can support stretch denim or comfortable textile materials. Stretch and comfort features depend on material composition, fabric construction, and finishing process. Customers should provide information about the intended garment, fit requirement, comfort level, and performance needs. The assistant can explain that more specific recommendations require the customer’s fabric and product requirements.
+
+Woven Materials:
+In addition to denim, the company may support other woven textile materials depending on customer needs. Woven materials are often used for shirts, pants, jackets, uniforms, casualwear, and other apparel categories. Customers may ask if the company can help find or develop woven materials for their product line. The assistant should explain that the company can discuss textile requirements and guide customers to provide product details.
+
+Knit Materials:
+Some customers may ask whether the company supports knit materials. Knit fabrics are often used for comfortable apparel such as T-shirts, casualwear, activewear-inspired products, and flexible garments. If the customer asks about knit materials, the assistant should explain that support depends on the specific project and material requirements. The assistant should ask for product type, fabric function, material preference, and order expectations.
+
+Fabric Development:
+The company supports fabric development for customers who need specific materials or product ideas. Fabric development may include discussing fabric structure, material selection, color direction, texture, finishing, stretch, performance, and target usage. The goal is to help customers turn design ideas into practical fabric solutions. The assistant should guide customers to describe their product concept clearly.
+
+Product Development Support:
+Customers may need help developing a product from an idea to a more specific fabric requirement. Product development support can include early discussion, fabric direction, sample needs, and production considerations. The assistant should not promise final technical feasibility without review, but it can explain that the company can support development discussions and ask customers to provide design goals, usage, and timeline.
+
+Customization Support:
+The company may support customized textile solutions based on customer needs. Customers may ask about custom colors, fabric finish, material composition, texture, stretch, or other product development requirements. For custom requests, customers usually need to provide target product type, design goal, expected usage, quantity, budget direction if available, and timeline. The assistant should guide customers to provide these details.
+
+Custom Color Requests:
+Customers may ask whether custom colors are available. A good answer should explain that custom color discussion may be possible depending on the project requirements. Customers should provide color references, target shade, fabric type, order quantity, and timeline. The assistant should encourage customers to share images, Pantone references, or product inspiration if available.
+
+Custom Fabric Finish:
+Customers may ask about fabric finishes, softness, washing effect, coating, or other appearance-related requirements. Finishing can change the fabric’s look, feel, and performance. The assistant should explain that finish options depend on the fabric type and production process. Customers should provide their desired effect, product use, and sample reference if available.
+
+Material Composition:
+Customers may ask about material composition, such as cotton, polyester, spandex, recycled fibers, or blended materials. Material composition affects comfort, stretch, durability, cost, and sustainability. The assistant should explain that the company can discuss material needs and guide customers to provide target performance, comfort expectations, and sustainability requirements.
+
+Production Support:
+The company provides production-related support for textile and apparel customers. This may include fabric production coordination, development follow-up, sample discussion, and communication support during the production process. The company aims to help customers reduce uncertainty and improve communication during product development and manufacturing.
+
+Production Process Discussion:
+Customers may ask about how the production process works. A general process may include inquiry, requirement discussion, fabric direction, sample discussion, production review, and further business communication. The assistant should explain the general process without promising exact timelines or final production details unless confirmed by the business team.
+
+Sample Development:
+Customers may ask whether sample development is available. A good answer should explain that sample discussion may be part of the development process, depending on the project details. Customers should provide target fabric type, application, color, quantity, and timeline. The assistant should guide customers to share clear requirements before sample discussion.
+
+Quality Control:
+The company values quality control and production consistency. Quality control may include checking fabric appearance, material performance, color consistency, fabric hand feel, and production details. Customers may ask how the company supports quality or stable production. The assistant should explain that quality control is an important part of the company’s service and that specific quality requirements should be discussed before production.
+
+Testing and Inspection:
+Customers may ask whether fabrics can be tested or inspected. Testing and inspection may relate to fabric strength, shrinkage, color fastness, appearance, or other performance requirements. The assistant should explain that specific testing needs should be discussed with the company team. Customers should provide required standards, target market, and product use if they have specific compliance needs.
+
+Sustainability and Recycling:
+The company values social responsibility and environmental protection. It supports recycling and regeneration in textile production and aims to promote sustainable development. Customers may ask about recycled materials, environmentally friendly textile options, and sustainability-related production support. The assistant should explain the company’s sustainability direction and ask customers for their specific sustainability requirements.
+
+Recycled Materials:
+Customers may ask whether the company supports recycled materials. A good answer should mention that the company values recycling and regeneration and can discuss recycled or more environmentally friendly textile options. Customers should provide details such as target fabric type, recycled material requirements, certification needs if any, order quantity, and product application.
+
+Environmental Responsibility:
+Customers may ask about environmental responsibility. The assistant should explain that the company values environmental protection and sustainable development. It should not make unsupported certification claims unless those certifications are included in the source data. If customers need specific environmental certificates or compliance documents, the assistant should suggest discussing those requirements directly with the company team.
+
+Certifications and Compliance:
+Customers may ask about certifications, quality systems, or compliance requirements. A good answer should avoid making unverified claims. The assistant can say that certification or compliance requirements should be confirmed with the company team based on the customer’s market and product needs. Customers should provide any required standards, documents, or buyer requirements.
+
+International Customer Support:
+International customers may need clear English communication when asking about products and services. They may ask about fabric types, customization, sustainability, production support, shipping discussion, or how to start an inquiry. The AI assistant should help provide clear first-step answers based on company information and guide customers to provide enough details for follow-up.
+
+Inquiry and Contact Process:
+When customers are interested in working with the company, they should provide basic information about their needs. Useful inquiry details may include product type, fabric requirement, color, material composition, quantity, target market, sustainability needs, timeline, and contact information. The assistant can guide customers to provide these details before further business communication.
+
+Customer Inquiry Requirements:
+For a complete inquiry, customers should try to include product category, fabric type, target fabric weight, color direction, stretch or comfort needs, sustainability requirements, quantity, timeline, and destination market. If the customer does not know all details, they can still describe their product idea and ask for guidance.
+
+Shipping and Logistics Discussion:
+Customers may ask about shipping or logistics. The assistant should explain that shipping discussion depends on order details, destination, quantity, timeline, and business terms. The assistant should not provide exact shipping cost or delivery time unless that information is confirmed. It can suggest that customers share destination and order information for further discussion.
+
+Minimum Order Quantity Discussion:
+Customers may ask about minimum order quantity. If the exact MOQ is not available in the source data, the assistant should not make up a number. It should explain that MOQ may depend on fabric type, customization level, color, production requirements, and order plan. The assistant should suggest contacting the company team with project details for confirmation.
+
+Pricing Discussion:
+Customers may ask about price. The assistant should not provide exact pricing unless confirmed data is available. It can explain that pricing may depend on fabric type, material composition, customization, quantity, finishing, and production requirements. The assistant should ask customers to provide details so the business team can review the inquiry.
+
+Lead Time Discussion:
+Customers may ask about production timeline or lead time. If exact lead time is not available, the assistant should avoid giving a specific number. It can explain that lead time may depend on sample development, fabric type, customization, quantity, and production schedule. Customers should provide timeline expectations and project details for follow-up.
+
+FAQ - Product Questions:
+Customers may ask what types of denim fabric or textile materials the company provides. A good answer should explain that the company focuses on denim fabric and related textile services. It should also ask customers to share their target product type, fabric needs, and application for more specific suggestions.
+
+FAQ - Denim Questions:
+Customers may ask if the company provides denim fabric for jeans or other apparel. A good answer should explain that denim fabric is one of the company’s main business areas and can support different apparel uses. Customers should provide fabric weight, color, stretch, texture, and target garment type for better discussion.
+
+FAQ - Fabric Development Questions:
+Customers may ask whether the company can help develop a new fabric. A good answer should explain that the company can support fabric development discussions based on customer needs. Customers should provide product concept, material direction, color, texture, function, and timeline.
+
+FAQ - Customization Questions:
+Customers may ask whether the company can support custom fabric development. A good answer should explain that customization discussion may include color, material composition, fabric finish, texture, stretch, and usage. The customer should provide specific requirements before the company can review feasibility.
+
+FAQ - Sustainability Questions:
+Customers may ask whether the company supports recycled or sustainable materials. A good answer should mention that the company values environmental protection, recycling, regeneration, and sustainable development. It should also ask customers to provide details about recycled material expectations, certification needs, and product use.
+
+FAQ - Quality Questions:
+Customers may ask how the company controls quality. A good answer should explain that the company values quality control and production consistency. It may include checking fabric appearance, color consistency, material performance, hand feel, and production details. Specific quality requirements should be discussed before production.
+
+FAQ - Production Questions:
+Customers may ask whether the company supports production-related services. A good answer should explain that the company provides production support and development follow-up for textile and apparel customers, depending on the specific project needs. Customers should provide product requirements and timeline for more specific support.
+
+FAQ - Shipping Questions:
+Customers may ask about shipping, delivery, or logistics. A good answer should explain that shipping depends on destination, order quantity, production plan, and business terms. The assistant should not make up exact shipping information and should ask customers to provide destination and order details.
+
+FAQ - Pricing Questions:
+Customers may ask how much the fabric costs. A good answer should explain that price depends on fabric type, material composition, customization, finish, quantity, and production requirements. The assistant should ask the customer to share detailed requirements so the business team can review the inquiry.
+
+FAQ - Contact Questions:
+Customers may ask how to contact the company or start a business inquiry. A good answer should guide the customer to provide product type, fabric needs, quantity, timeline, and contact information. The assistant can explain that the company team can follow up after receiving clear inquiry details.
+
+Out of Scope Handling:
+If a customer asks a question that is not related to textile products, company services, sustainability, production, pricing discussion, shipping discussion, or contact information, the assistant should not make up an answer. It should politely say that the question is outside the current company knowledge base and suggest asking a textile-related question.

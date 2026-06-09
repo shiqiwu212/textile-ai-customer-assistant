@@ -1,0 +1,116 @@
+question_id,category,question,expected_section,is_in_scope
+Q001,Company Overview,What kind of company are you?,Company Overview,Yes
+Q002,Company Overview,Can you introduce your company?,Company Overview,Yes
+Q003,Company Overview,Where is your company located?,Company Background,Yes
+Q004,Company Overview,What industries do you serve?,Business Focus,Yes
+Q005,Company Overview,What is your main business?,Business Focus,Yes
+
+Q006,Products,What products do you provide?,Main Products,Yes
+Q007,Products,Do you specialize in denim fabric?,Denim Fabric,Yes
+Q008,Products,What textile materials do you support?,Main Products,Yes
+Q009,Products,Do you offer woven fabrics?,Main Products,Yes
+Q010,Products,Do you offer knit fabrics?,Main Products,Yes
+
+Q011,Denim Applications,What can denim fabric be used for?,Denim Applications,Yes
+Q012,Denim Applications,Can denim be used for jackets?,Denim Applications,Yes
+Q013,Denim Applications,Can denim be used for shirts?,Denim Applications,Yes
+Q014,Denim Applications,Can denim be used for skirts?,Denim Applications,Yes
+Q015,Denim Applications,Can denim be used for fashion products?,Denim Applications,Yes
+
+Q016,Fabric Weight,How do I choose fabric weight?,Fabric Weight,Yes
+Q017,Fabric Weight,What fabric weight is suitable for jeans?,Fabric Weight,Yes
+Q018,Fabric Weight,What fabric weight is suitable for summer clothing?,Fabric Weight,Yes
+Q019,Fabric Weight,What fabric weight is suitable for jackets?,Fabric Weight,Yes
+Q020,Fabric Weight,Does fabric weight affect durability?,Fabric Weight,Yes
+Q021,Texture and Hand Feel,Can you provide soft denim fabric?,Fabric Texture and Hand Feel,Yes
+Q022,Texture and Hand Feel,Can you provide more structured denim fabric?,Fabric Texture and Hand Feel,Yes
+Q023,Texture and Hand Feel,What does hand feel mean in fabric selection?,Fabric Texture and Hand Feel,Yes
+Q024,Texture and Hand Feel,Does fabric texture affect the final garment?,Fabric Texture and Hand Feel,Yes
+Q025,Texture and Hand Feel,What affects the softness or stiffness of denim?,Fabric Texture and Hand Feel,Yes
+
+Q026,Color and Finishing,Do you offer different denim colors?,Color and Finishing Options,Yes
+Q027,Color and Finishing,Can you support black denim fabric?,Color and Finishing Options,Yes
+Q028,Color and Finishing,Can you make light blue denim fabric?,Color and Finishing Options,Yes
+Q029,Color and Finishing,Can I request a custom wash effect?,Color and Finishing Options,Yes
+Q030,Color and Finishing,How does finishing affect the fabric?,Color and Finishing Options,Yes
+
+Q031,Stretch and Comfort,Do you offer stretch denim?,Stretch and Comfort,Yes
+Q032,Stretch and Comfort,Can you help with comfortable denim fabric?,Stretch and Comfort,Yes
+Q033,Stretch and Comfort,What information do you need for stretch fabric requirements?,Stretch and Comfort,Yes
+Q034,Stretch and Comfort,Does stretch depend on material composition?,Stretch and Comfort,Yes
+Q035,Stretch and Comfort,Can stretch denim be used for fitted jeans?,Stretch and Comfort,Yes
+
+Q036,Woven and Knit Materials,Do you provide woven textile materials?,Woven Materials,Yes
+Q037,Woven and Knit Materials,Can you help with woven fabric for shirts?,Woven Materials,Yes
+Q038,Woven and Knit Materials,Do you support knit materials?,Knit Materials,Yes
+Q039,Woven and Knit Materials,Can you help with fabric for T-shirts?,Knit Materials,Yes
+Q040,Woven and Knit Materials,Do you provide flexible materials for casualwear?,Knit Materials,Yes
+Q041,Fabric Development,Can you help us develop a new fabric?,Fabric Development,Yes
+Q042,Fabric Development,We have a product idea but not a clear fabric requirement. Can you help?,Product Development Support,Yes
+Q043,Fabric Development,Can you help turn a design idea into a fabric solution?,Fabric Development,Yes
+Q044,Fabric Development,What information should we provide for fabric development?,Product Development Support,Yes
+Q045,Fabric Development,Can you discuss fabric structure and material selection?,Fabric Development,Yes
+
+Q046,Customization,Do you support custom fabric development?,Customization Support,Yes
+Q047,Customization,Can we customize the fabric color?,Custom Color Requests,Yes
+Q048,Customization,Can we request a specific fabric finish?,Custom Fabric Finish,Yes
+Q049,Customization,Can you adjust the fabric texture and stretch?,Customization Support,Yes
+Q050,Customization,What details do you need for a custom fabric request?,Customization Support,Yes
+
+Q051,Custom Color,Can I send a Pantone color reference?,Custom Color Requests,Yes
+Q052,Custom Color,Can we provide images as color references?,Custom Color Requests,Yes
+Q053,Custom Color,What information do you need for custom color discussion?,Custom Color Requests,Yes
+Q054,Custom Finish,Can you make the fabric softer through finishing?,Custom Fabric Finish,Yes
+Q055,Custom Finish,Can finishing change the look and feel of the fabric?,Custom Fabric Finish,Yes
+
+Q056,Material Composition,Can you discuss cotton and polyester blend options?,Material Composition,Yes
+Q057,Material Composition,Do material choices affect comfort and durability?,Material Composition,Yes
+Q058,Material Composition,Can you support spandex or stretch fiber requirements?,Material Composition,Yes
+Q059,Material Composition,Can you discuss recycled fiber options?,Material Composition,Yes
+Q060,Material Composition,Does material composition affect sustainability?,Material Composition,Yes
+Q061,Production,Do you provide production support?,Production Support,Yes
+Q062,Production,Can you help with fabric production coordination?,Production Support,Yes
+Q063,Production,How does the general production process work?,Production Process Discussion,Yes
+Q064,Production,Can you support development follow-up during production?,Production Support,Yes
+Q065,Production,Can you help reduce uncertainty during manufacturing?,Production Support,Yes
+
+Q066,Sample Development,Do you offer sample development?,Sample Development,Yes
+Q067,Sample Development,What information do you need before sample discussion?,Sample Development,Yes
+Q068,Sample Development,Can we discuss samples before production?,Sample Development,Yes
+Q069,Sample Development,Do samples depend on project details?,Sample Development,Yes
+Q070,Sample Development,What should I provide for a fabric sample request?,Sample Development,Yes
+
+Q071,Quality Control,How do you control fabric quality?,Quality Control,Yes
+Q072,Quality Control,Do you check color consistency?,Quality Control,Yes
+Q073,Quality Control,Do you check fabric appearance and hand feel?,Quality Control,Yes
+Q074,Quality Control,Can you support stable production quality?,Quality Control,Yes
+Q075,Quality Control,What quality details should customers discuss before production?,Quality Control,Yes
+
+Q076,Testing and Inspection,Can fabrics be tested before production?,Testing and Inspection,Yes
+Q077,Testing and Inspection,Can you test shrinkage or color fastness?,Testing and Inspection,Yes
+Q078,Testing and Inspection,What should customers provide for testing requirements?,Testing and Inspection,Yes
+Q079,Testing and Inspection,Can inspection include fabric strength and appearance?,Testing and Inspection,Yes
+Q080,Testing and Inspection,Do testing needs depend on target market?,Testing and Inspection,Yes
+Q081,Sustainability,Do you offer sustainable textile options?,Sustainability and Recycling,Yes
+Q082,Sustainability,Do you support recycled denim fabric?,Recycled Materials,Yes
+Q083,Sustainability,Do you use recycled materials?,Recycled Materials,Yes
+Q084,Sustainability,Can you support environmentally friendly fabric options?,Sustainability and Recycling,Yes
+Q085,Sustainability,What sustainability information should we provide?,Recycled Materials,Yes
+
+Q086,Certifications and Compliance,Do you have sustainability certifications?,Certifications and Compliance,Yes
+Q087,Certifications and Compliance,Can you provide compliance documents?,Certifications and Compliance,Yes
+Q088,Certifications and Compliance,Can you confirm certificates for our target market?,Certifications and Compliance,Yes
+Q089,Certifications and Compliance,Should we confirm compliance requirements with your team?,Certifications and Compliance,Yes
+Q090,Certifications and Compliance,Can you guarantee certification without checking the project details?,Certifications and Compliance,Yes
+
+Q091,International Inquiry,How can international customers start an inquiry?,Inquiry and Contact Process,Yes
+Q092,International Inquiry,What information should I include in my inquiry?,Customer Inquiry Requirements,Yes
+Q093,International Inquiry,Should I provide quantity and timeline in my inquiry?,Customer Inquiry Requirements,Yes
+Q094,International Inquiry,Can you ship fabric internationally?,Shipping and Logistics Discussion,Yes
+Q095,International Inquiry,How much does shipping cost?,Shipping and Logistics Discussion,Yes
+
+Q096,Pricing and MOQ,What is your minimum order quantity?,Minimum Order Quantity Discussion,Yes
+Q097,Pricing and MOQ,How much does your denim fabric cost?,Pricing Discussion,Yes
+Q098,Pricing and MOQ,Can you give me a price per meter?,Pricing Discussion,Yes
+Q099,Pricing and MOQ,What is your production lead time?,Lead Time Discussion,Yes
+Q100,Out of Scope,Can you recommend a restaurant near campus?,Out of Scope Handling,No
